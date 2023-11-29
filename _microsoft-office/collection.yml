@@ -1,4 +1,5 @@
 collections:
   microsoft-office:
     output: true
-    order: []
+    order:
+      - Microsoft Office Basic & Intermediate.md
