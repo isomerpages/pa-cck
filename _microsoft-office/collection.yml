@@ -1,0 +1,4 @@
+collections:
+  microsoft-office:
+    output: true
+    order: []
