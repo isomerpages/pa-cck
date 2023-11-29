@@ -1,4 +1,5 @@
 collections:
   microsoft-office-advanced:
     output: true
-    order: []
+    order:
+      - Microsoft Office Advanced.md
