@@ -45,6 +45,3 @@ description: ""
 [Excel_Tips_and_Tricks](/files/Microsoft%20Office/Excel_Tips_and_Tricks_Contents.pdf)**
 **Schedules
 [Schedules](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**
-
-
-
