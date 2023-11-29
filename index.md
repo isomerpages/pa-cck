@@ -7,9 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: CHUA CHU KANG CC
+      background: /images/CC_Photos.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -22,6 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: center
   - infobar:
       title: CCK Goes Green
       subtitle: towards a sustainable nation
