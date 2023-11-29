@@ -4,24 +4,25 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Please note that our website is under maintenance. We will be back shortly!
 sections:
   - hero:
       title: CHUA CHU KANG CC
       background: /images/CC_Photos.jpg
-      button: Contact Us
+      button: Find out more.....
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: IT CENTRE
+          description: Make IT Away of Life!
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Green Initiative
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Interest Group
+          description: ""
           url: /privacy/
-      variant: center
+      variant: floating
+      size: sm
   - infobar:
       title: CCK Goes Green
       subtitle: towards a sustainable nation
