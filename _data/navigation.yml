@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
+  - title: About US
     url: /example-page/
-  - title: Example Folder
+  - title: IT CENTRE
     collection: example-folder
+  - title: GREEN INITIATIVE
+    collection: example-folder
+  - title: FINANCIAL ASSISTANCE
+    collection: example-folder
+  - title: CC Courses
+    collection: example-folder
+  - title: COMMUNITY PROGRAMMES
+    collection: example-folder
+  - title: Contact Us
+    url: PA_CHUACHUKANGCC@pa.gov.sg
