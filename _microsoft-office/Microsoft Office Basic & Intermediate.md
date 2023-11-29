@@ -18,4 +18,5 @@ description: ""
 [Microsoft_Access_Basic_&_Intermediate](/files/Microsoft%20Office/Microsoft_Access_Basic_and_Intermediate_Course_Outline.pdf)**
 
 **Course Schedules
+
 [Office_Schedules](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**
