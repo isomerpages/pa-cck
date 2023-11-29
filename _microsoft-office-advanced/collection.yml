@@ -1,5 +1,0 @@
-collections:
-  microsoft-office-advanced:
-    output: true
-    order:
-      - Microsoft Office Advanced.md
