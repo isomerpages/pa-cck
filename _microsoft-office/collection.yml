@@ -2,4 +2,5 @@ collections:
   microsoft-office:
     output: true
     order:
+      - Microsoft Office Advanced.md
       - Microsoft Office Basic & Intermediate.md
