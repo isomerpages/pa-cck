@@ -6,7 +6,7 @@ description: ""
 ---
 | Course Title               | No of Lessons | Course Fees |Contents
 | Schedules |
-| **Microsoft Word Advanced**|**4**   |**$160/$170** | **[PDF]**(/files/Microsoft%20Office/Word_Advanced.pdf)|**[PDF]**(/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)|
+| **Microsoft Word Advanced**|**4**   |**$160/$170** | **[PDF][](/files/Microsoft%20Office/Word_Advanced.pdf)**|**[PDF][](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**|
 
 
 
