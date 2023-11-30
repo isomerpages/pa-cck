@@ -2,31 +2,33 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Chua Chu Kang Community Club
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 35 Teck Whye Avenue
+      - ""
+      - Singapore 688892
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
+      - days: Mon - Sun
+        time: 10am - 6.00pm
         description: Closed on Public Holidays
       - days: Sat
         time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: ""
+    maps_link: https://www.google.com.sg/maps/search/chua+chu+kang+cc+maps/@1.3797444,103.7453333,16.15z?entry=ttu
+    title: Main Office
+  - address:
+      - 35 Teck Whye Avenue
+      - Singapore 688892
+      - ""
+    operating_hours: []
+    maps_link: https://www.google.com.sg/maps/search/chua+chu+kang+cc+maps/@1.3797444,103.7453333,16.15z?entry=ttu
+    title: IT Centre
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6769 1694
+      - email: pa_chuachukangcc@pa.gov.sg
+      - other: ""
+    title: General Enquiries & Feedback
+feedback: ""
 ---
