@@ -1,4 +1,5 @@
 collections:
   finance-assistance:
     output: true
-    order: []
+    order:
+      - Keat Hong Chinese Orchestra.md
