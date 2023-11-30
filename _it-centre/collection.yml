@@ -2,7 +2,7 @@ collections:
   it-centre:
     output: true
     order:
-      - Programming.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - PC Hardware and Software.md
+      - Programming.md
