@@ -2,8 +2,8 @@ collections:
   interest-group:
     output: true
     order:
-      - Star Gazing.md
       - Keat Hong Chinese Orchestra.md
       - Toastmaster Club.md
       - Basketball.md
       - Volleyball.md
+      - Star Gazing.md
