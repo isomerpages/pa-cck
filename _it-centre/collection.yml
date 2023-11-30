@@ -1,5 +1,5 @@
 collections:
-  microsoft-office:
+  it-centre:
     output: true
     order:
       - Microsoft Office Basic & Intermediate.md
