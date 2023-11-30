@@ -10,4 +10,5 @@ description: ""
 | **PC Networking in 9 hours + Hands-on**     | **9**    |**$140/$145**|[](/files/PC%20HW%20and%20SW/PC_Networking_course_outlines.pdf)|
 | **PC Wireless Networking in 9 hours + Hands-on**     | **9**    |**$140/$145**|[](/files/PC%20HW%20and%20SW/PC_Wireless_Networking_course_outlines.pdf)|
 | **PC Laptop Literacy**     | **7**    |**$85/$90**|[](/files/PC%20HW%20and%20SW/PC__Laptop_Literacy_course_outlines.pdf)|
-| **PC Laptop Upgrading**     | **7**    |**$160/$170**|[][](/files/PC%20HW%20and%20SW/PC_Laptop_Upgrading_course_outline.pdf)|
+| **PC Laptop Upgrading**     | **9**    |**$160/$170**|[](/files/PC%20HW%20and%20SW/PC_Laptop_Upgrading_course_outline.pdf)|
+| **PC Ethical Hacking Bootcamp**     | **12**    |**$295/$300**|[](/files/PC%20HW%20and%20SW/PC_Ethical_Hacking_BootCamp_Course_Outline.pdf)|
