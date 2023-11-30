@@ -5,4 +5,4 @@ variant: markdown
 description: ""
 ---
 | Course Title |No of Hours |Course Fee| Contents| Schedules |
-| **PC DIY in 9 hours + Hands-on**     | **9**    |**$140/$145**|Text     |Text     |
+| **PC DIY in 9 hours + Hands-on**     | **9**    |**$140/$145**|[](/files/PC%20HW%20and%20SW/PC_DIY_in_9_Hours_course_outlines.pdf)|[](/files/PC%20HW%20and%20SW/Webdesign_Schedules.pdf)|
