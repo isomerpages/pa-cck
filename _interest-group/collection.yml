@@ -2,6 +2,6 @@ collections:
   interest-group:
     output: true
     order:
-      - Volleyball.md
-      - Toastmaster Club.md
       - Keat Hong Chinese Orchestra.md
+      - Toastmaster Club.md
+      - Volleyball.md
