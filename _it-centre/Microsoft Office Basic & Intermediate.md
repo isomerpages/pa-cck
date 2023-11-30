@@ -4,7 +4,12 @@ permalink: /microsoft-office/permalink/microsoftofficebasicintermediate/
 variant: markdown
 description: ""
 ---
-![](/images/hero-banner.png)**-Microsoft Office Basic & Intermediate ( 36 hours) [Microsoft_Office_Basic_&_Intermediate](/files/Microsoft%20Office/Microsoft_Office_Basic_and_Intermediate_Course_Outline.pdf)**
+| Course Title | No of hours | Contents |
+| **Microsoft Office Basic & Intermediate**   | **36**  | [](/files/Microsoft%20Office/Microsoft_Office_Basic_and_Intermediate_Course_Outline.pdf)|
+
+
+
+
 
 **-Microsoft Word Basic & Intermediate (9 hours)[Microsoft_Word_Basic_&_Intermediate](/files/Microsoft%20Office/Microsoft_Word_Basic_Course_Outline.pdf)**
 
