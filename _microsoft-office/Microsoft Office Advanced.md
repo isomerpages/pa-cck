@@ -4,8 +4,8 @@ permalink: /microsoft-office/permalink/
 variant: markdown
 description: ""
 ---
-| Course Title | No of Lessons | Course Fees |Course Contents
-| Course Schedules |
+| Course Title | No of Lessons | Course Fees |Contents
+| Schedules |
 | **Microsoft Word Advanced**|**4**   |**$160/$170** |  [Word_Advanced](/files/Microsoft%20Office/Word_Advanced.pdf)|(/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)    |
 
 
