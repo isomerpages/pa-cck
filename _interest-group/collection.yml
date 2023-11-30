@@ -2,4 +2,5 @@ collections:
   interest-group:
     output: true
     order:
+      - Toastmaster Club.md
       - Keat Hong Chinese Orchestra.md
