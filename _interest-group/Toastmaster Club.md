@@ -1,6 +1,6 @@
 ---
 title: Toastmaster Club
 permalink: /interest-group/permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
