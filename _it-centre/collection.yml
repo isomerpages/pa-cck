@@ -2,5 +2,6 @@ collections:
   it-centre:
     output: true
     order:
+      - PC Hardware and Software.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
