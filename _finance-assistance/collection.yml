@@ -2,4 +2,5 @@ collections:
   finance-assistance:
     output: true
     order:
+      - TOASTMASTERS CLUB.md
       - Keat Hong Chinese Orchestra.md
