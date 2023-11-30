@@ -2,8 +2,8 @@ collections:
   it-centre:
     output: true
     order:
-      - 2D,3D Animation and Virtual Tour.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - PC Hardware and Software.md
       - Programming.md
+      - 2D,3D Animation and Virtual Tour.md
