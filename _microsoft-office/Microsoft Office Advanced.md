@@ -5,17 +5,17 @@ variant: markdown
 description: ""
 ---
 | Course Title               | No of Lessons | Course Fees |Contents|Schedules|
-| **Microsoft Word Advanced**|**4**   |**$160/$170** | **[](/files/Microsoft%20Office/Word_Advanced.pdf)**|**[PDF][](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**|
+| **Microsoft Word Advanced**|**4**   |**$160/$170** | **[](/files/Microsoft%20Office/Word_Advanced.pdf)**|**[](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**|
+| **Microsoft Excel Advanced**|**4**   |**$160/$170** | **[][](/files/Microsoft%20Office/Microsoft_Excel_Advanced_Course_Outline.pdf)|**[](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**|
+| **Microsoft PowerPoint Advanced**|**4**   |**$160/$170** | **[][](/files/Microsoft%20Office/PowerPoint_Advanced.pdf)**|**[](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**|
+
+
+
+
 
 ```**Microsoft Word Advanced
 [Word_Advanced](/files/Microsoft%20Office/Word_Advanced.pdf)**
-**Schedules
-[Schedules](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**
 
-**-Microsoft Excel Advanced
-[Excel_Advanced](/files/Microsoft%20Office/Microsoft_Excel_Advanced_Course_Outline.pdf)**
-**Schedules
-[Schedules](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**
 
 **-Microsoft PowerPoint Advanced
 [Power_Point_Advanced](/files/Microsoft%20Office/PowerPoint_Advanced.pdf)**
