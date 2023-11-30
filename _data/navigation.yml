@@ -4,7 +4,11 @@ links:
     url: /example-page/
   - title: IT CENTRE
     collection: microsoft-office
+  - title: Financial Assistance
+    collection: finance-assistance
+  - title: Interest Group
+    collection: interest-group
+  - title: CC Courses
+    collection: cc-courses
   - title: Contact Us
     url: PA_CHUACHUKANGCC@pa.gov.sg
-  - title: Financial Assistance
-    collection: microsoft-office
