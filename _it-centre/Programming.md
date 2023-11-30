@@ -12,4 +12,4 @@ description: ""
 |**Python for Data Analysis**| **9** | **$240(M)/$250(NM)**|**[](/files/Programming/Python_for_Data_Analysis_course_outlines.pdf)**|
 |**SQL Programming**| **9** | **$240(M)/$250(NM)**|**[](/files/Programming/SQL_Programming.pdf)**|
 
-Schedules[](/files/Programming/New_Courses_Schedules.pdf)
+**Schedules[](/files/Programming/New_Courses_Schedules.pdf)**
