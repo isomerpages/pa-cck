@@ -16,3 +16,5 @@ description: ""
 | **PC Laptop Upgrading|9| $160(M)/$170(NM)|[](/files/PC%20HW%20and%20SW/PC_Laptop_Upgrading_course_outline.pdf)**|
 | **Microsoft Word Basic & Intermediate|12| $120(M)/$130(NM)|[](/files/Microsoft%20Office/Microsoft_Word_Basic_Course_Outline.pdf)**|
 | **Microsoft PowerPoint Basic & Intermediate|12| $120(M)/$130(NM)|[](/files/Microsoft%20Office/Microsoft_PowerPoint_Basic_and_Intermediate_Course_Outline.pdf)**|
+
+**Schedules[](/files/School%20Holidays%20Programme/holiday_programme.pdf)**
