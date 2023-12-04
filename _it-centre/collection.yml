@@ -2,9 +2,9 @@ collections:
   it-centre:
     output: true
     order:
-      - Photo and Video Editing.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - PC Hardware and Software.md
       - Programming.md
       - 2D,3D Animation and Virtual Tour.md
+      - Photo and Video Editing.md
