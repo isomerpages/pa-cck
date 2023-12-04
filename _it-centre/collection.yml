@@ -2,7 +2,6 @@ collections:
   it-centre:
     output: true
     order:
-      - School Holidays Programme.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - PC Hardware and Software.md
@@ -11,3 +10,4 @@ collections:
       - Photo and Video Editing.md
       - Webdesign.md
       - Basic Computer Course.md
+      - School Holidays Programme.md
