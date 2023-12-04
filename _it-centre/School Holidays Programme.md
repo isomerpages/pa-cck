@@ -18,6 +18,6 @@ description: ""
 
 **Schedules[](/files/School%20Holidays%20Programme/holiday_programme.pdf)**
 
-Register online at (https://www.onepa.gov.sg)https://www.onepa.gov.sg
+Register online at [](https://www.onepa.gov.sg)https://www.onepa.gov.sg
 
-I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.
+*I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.*
