@@ -2,10 +2,10 @@ collections:
   it-centre:
     output: true
     order:
-      - Basic Computer Course.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - PC Hardware and Software.md
       - Programming.md
       - 2D,3D Animation and Virtual Tour.md
       - Photo and Video Editing.md
+      - Basic Computer Course.md
