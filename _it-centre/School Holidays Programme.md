@@ -23,5 +23,5 @@ For online credit card payment, please register at [OnePA portal](https://www.on
 	
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
-Register online at [https://www.onepa.gov.sg](https://www.onepa.gov.sg)
+
 
