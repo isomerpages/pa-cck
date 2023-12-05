@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: IT CENTRE
           description: Make IT Away of Life!
-          url: https://google.com
+          url: https://www.cckitcentre.org.sg
         - title: Green Initiative
           description: ""
           url: https://gmail.com
