@@ -16,8 +16,8 @@ description: ""
 [](/files/Microsoft%20Office/Office_Basic_and_Intermediate_Schedules.pdf)**
 
 <font size="-1">
-If you wish to utilise your SkillsFuture credit for this course, please call <b>67647426/67691694</b> to obtain a tax invoice to be submitted via [https://www.myskillsfuture.gov.sg](https://www.myskillsfuture.gov.sg). Alternatively, please register for the course at Chua Chu Kang CC.<br><br>
+If you wish to utilise your SkillsFuture credit for this course, please call <b>67647426/67691694</b> to obtain a tax invoice to be submitted via [https://www.myskillsfuture.gov.sg]https://www.myskillsfuture.gov.sg). Alternatively, please register for the course at Chua Chu Kang CC.<br><br>
 	
-For online credit card payment, please register at [https://www.onepa.gov.sg](/https://www.onepa.gov.sg)</font><br>
+For online credit card payment, please register at [https://www.onepa.gov.sg]/https://www.onepa.gov.sg)</font><br>
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
