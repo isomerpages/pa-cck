@@ -4,7 +4,8 @@ permalink: /microsoft-office/permalink/microsoftofficebasicintermediate/
 variant: markdown
 description: ""
 ---
-| Course Title | No of hours | Contents |Course Fee |
+<h3 style="background-color:DodgerBlue;">
+| Course Title | No of hours | Contents |Course Fee |</h3>
 | **Microsoft Office Basic &amp; Intermediate**   | **36**  | [](/files/Microsoft%20Office/Microsoft_Office_Basic_and_Intermediate_Course_Outline.pdf)|**$380(M)/$390(NM)**|
 | **Microsoft Word Basic &amp; Intermediate**   | **9**  | [](/files/Microsoft%20Office/Microsoft_Word_Basic_Course_Outline.pdf)|**$120(M)/$130(NM)**|
 | **Microsoft Excel Basic &amp; Intermediate**   | **9**  | [](/files/Microsoft%20Office/Microsoft_Excel_Basic_Course_Outline.pdf)|**$120(M)/$130(NM)**|
