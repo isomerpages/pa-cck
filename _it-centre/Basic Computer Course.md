@@ -15,6 +15,8 @@ If you wish to utilise your SkillsFuture credit for this course, please call <b>
 
 <small>
 For online credit card payment, please register at [OnePA portal](https://www.onepa.gov.sg)<br></small>
-	
+
+![BasicComputer](/images/Basic_Computer_Course.jpg)
+
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
