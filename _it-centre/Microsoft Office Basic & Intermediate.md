@@ -17,7 +17,7 @@ description: ""
 <font size="-1">
 If you wish to utilise your SkillsFuture credit for this course, please call <b>67647426/67691694</b> to obtain a tax invoice to be submitted via <b>https://www.skillsfuture.gov.sg</b>. Alternatively, please register for the course at Chua Chu Kang CC.
 
-For credit card payment, please register at <b>[https://www.onepa.gov.sg](https://www.onepa.gov.sg)</b></font>
+For online credit card payment, please register at <b>[https://www.onepa.gov.sg](https://www.onepa.gov.sg)</b></font>
 
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
