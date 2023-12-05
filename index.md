@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Chua Chu Kang CC
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
