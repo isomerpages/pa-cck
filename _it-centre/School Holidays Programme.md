@@ -4,7 +4,8 @@ permalink: /it-centre/holidaysprogramme/
 variant: markdown
 description: ""
 ---
-![School Holidays](/images/Amend_Picture.jpg)| Course Title | No of hours| Course Fee|Contents|
+![School Holidays](/images/Amend_Picture.jpg)<br>
+| Course Title | No of hours| Course Fee|Contents|
 | **Kids Adventure Programme Part 1** |**10** | **$65(M)/$70(NM)**|**[](/files/School%20Holidays%20Programme/Kids_Adventure_Programme_Part_1.pdf)**|
 | **Fun with your own photo using Photoshop** |**10** | **$65(M)/$70(NM)**|**[](/files/School%20Holidays%20Programme/Fun_Photo_Photoshop.pdf)**|
 | **Create your own animation cartoon using Flash** |**10** | **$65(M)/$70(NM)**|**[](/files/School%20Holidays%20Programme/Create_Animation_Cartoon_Flash.pdf)**|
