@@ -16,12 +16,12 @@ description: ""
 | **Microsoft Word Basic &amp; Intermediate**|**12**|**$120(M)/$130(NM)**|**[](/files/Microsoft%20Office/Microsoft_Word_Basic_Course_Outline.pdf)**|
 | **Microsoft PowerPoint Basic &amp; Intermediate**|**12**|**$120(M)/$130(NM)**|**[](/files/Microsoft%20Office/Microsoft_PowerPoint_Basic_and_Intermediate_Course_Outline.pdf)**|
 
-![School Holidays](/images/Amend_Picture.jpg)<br>
-
 **Schedules[](/files/School%20Holidays%20Programme/holiday_programme.pdf)**
 
 <small>
 For online credit card payment, please register at [OnePA portal](https://www.onepa.gov.sg)<br></small>
-	
+
+![School Holidays](/images/Amend_Picture.jpg)<br>
+
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
