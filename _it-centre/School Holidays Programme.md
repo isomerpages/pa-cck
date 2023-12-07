@@ -21,7 +21,7 @@ description: ""
 <small>
 For online credit card payment, please register at [OnePA portal](https://www.onepa.gov.sg)<br></small>
 
-![School Holidays](/images/Amend_Picture.jpg)<br>
+![Schoolholiday](/images/IT%20Centre/Amend_Picture.jpg)
 
 <font size="-1"><i>
 *I.T. Centre reserves the right to reschedule the course without prior notice due to class size or unforeseen circumstances.</i></font>
