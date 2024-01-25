@@ -1,0 +1,10 @@
+collections:
+  interest-group:
+    output: true
+    order:
+      - Keat Hong Chinese Orchestra.md
+      - Toastmaster Club.md
+      - Star Gazing.md
+      - Basketball.md
+      - Volleyball.md
+      - Sepak Takraw.md

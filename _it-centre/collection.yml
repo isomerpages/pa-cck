@@ -1,0 +1,13 @@
+collections:
+  it-centre:
+    output: true
+    order:
+      - Microsoft Office Basic & Intermediate.md
+      - Microsoft Office Advanced.md
+      - PC Hardware and Software.md
+      - Programming.md
+      - 2D,3D Animation and Virtual Tour.md
+      - Photo and Video Editing.md
+      - Webdesign.md
+      - Basic Computer Course.md
+      - School Holidays Programme.md

@@ -1,0 +1,4 @@
+collections:
+  cc-courses:
+    output: true
+    order: []
