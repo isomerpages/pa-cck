@@ -1,4 +1,5 @@
 collections:
   care:
     output: true
-    order: []
+    order:
+      - Kopi & Teh Club @ CCK.md
