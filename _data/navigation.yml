@@ -2,11 +2,19 @@ logo: /images/CCK_home_Picture.jpg
 links:
   - title: About US
     url: /example-page/
-  - title: It Centre
-    collection: it-centre
   - title: Care
     collection: care
-  - title: Interest Group
-    collection: interest-group
   - title: Learn
     collection: learn
+  - title: Interest Group
+    collection: interest-group
+  - title: Green
+    collection: green
+  - title: Happenings
+    collection: happenings
+  - title: Volunteers
+    collection: interest-group
+  - title: It Centre
+    collection: it-centre
+  - title: Contact Us
+    collection: care
