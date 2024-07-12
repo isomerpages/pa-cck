@@ -9,6 +9,6 @@ description: ""
 you have yet to do so.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Coffee" src="/images/Happenings/Coffee_and_Teh___CCK.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Happenings/Coffee_and_Teh___CCK.jpg">
 </div>
 <p></p>
