@@ -1,5 +1,5 @@
 collections:
-  interest-group:
+  volunteers:
     output: true
     order:
       - Keat Hong Chinese Orchestra.md
