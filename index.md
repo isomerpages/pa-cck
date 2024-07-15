@@ -21,7 +21,7 @@ sections:
         - title: Interest Group
           description: ""
           url: /privacy/
-      variant: floating
+      variant: image
       size: sm
   - infobar:
       title: CCK Goes Green
