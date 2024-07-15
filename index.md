@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: IT CENTRE
           description: Make IT Away of Life!
-          url: https://www.cckitcentre.org.sg
+          url: /about-it-centre/
       variant: image
       size: sm
   - infobar:
