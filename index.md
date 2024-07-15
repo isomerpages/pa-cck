@@ -9,18 +9,11 @@ sections:
   - hero:
       title: Chua Chu Kang Our Home
       background: /images/CCK_Home.jpg
-      button: Find out more.....
       url: /contact-us/
       key_highlights:
         - title: IT CENTRE
           description: Make IT Away of Life!
           url: /about-it-centre/
-      variant: center
+      variant: image
       size: sm
-  - infobar:
-      title: CCK Goes Green
-      subtitle: towards a sustainable nation
-      description: We can all play a part
-      button: find out more
-      url: /tree-planting-and-therapeutic-garden-walk/
 ---
