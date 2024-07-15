@@ -1,4 +1,5 @@
 collections:
   green:
     output: true
-    order: []
+    order:
+      - Tree Planting and Therapeutic Garden Walk.md
