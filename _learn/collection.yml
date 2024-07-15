@@ -1,4 +1,5 @@
 collections:
   learn:
     output: true
-    order: []
+    order:
+      - Courses.md
