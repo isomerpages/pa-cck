@@ -11,8 +11,8 @@ sections:
       background: /images/CCK_Home.jpg
       url: /contact-us/
       key_highlights:
-        - title: IT CENTRE
-          description: Make IT Away of Life!
+        - title: IT CENTRE - Make IT Away of Life!
+          description: ""
           url: /about-it-centre/
       variant: image
       size: sm
