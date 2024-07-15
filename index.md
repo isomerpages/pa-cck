@@ -22,5 +22,5 @@ sections:
       subtitle: towards a sustainable nation
       description: We can all play a part
       button: find out more
-      url: /faq/
+      url: /tree-planting-and-therapeutic-garden-walk/
 ---
