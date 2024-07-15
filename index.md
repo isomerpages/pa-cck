@@ -8,7 +8,7 @@ notification: Please note that our website is under maintenance. We will be back
 sections:
   - hero:
       title: Chua Chu Kang Our Home
-      background: /images/CCK_Home.jpg
+      background: /images/CCK_Home_1.jpg
       url: /contact-us/
       key_highlights:
         - title: Chua Chu Kang Our Home
