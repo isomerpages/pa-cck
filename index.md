@@ -11,9 +11,9 @@ sections:
       background: /images/CCK_Home.jpg
       url: /contact-us/
       key_highlights:
-        - title: IT CENTRE - Make IT Away of Life!
+        - title: Chua Chu Kang Our Home
           description: ""
-          url: /about-it-centre/
+          url: /about-us/
       variant: image
       size: sm
 ---
