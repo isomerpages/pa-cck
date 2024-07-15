@@ -8,7 +8,7 @@ notification: Please note that our website is under maintenance. We will be back
 sections:
   - hero:
       title: CHUA CHU KANG CC
-      background: /images/CC_Photos.jpg
+      background: /images/CCK_Home.jpg
       button: Find out more.....
       url: /contact-us/
       key_highlights:
