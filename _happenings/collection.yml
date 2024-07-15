@@ -2,5 +2,6 @@ collections:
   happenings:
     output: true
     order:
+      - KHCO Performance.md
       - CCK CC National Day Observance Ceremony & Carnival 2024.md
       - National Day Dinner 2024.md
