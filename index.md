@@ -7,7 +7,7 @@ permalink: /
 notification: Please note that our website is under maintenance. We will be back shortly!
 sections:
   - hero:
-      title: CHUA CHU KANG CC
+      title: Chua Chu Kang Our Home
       background: /images/CCK_Home.jpg
       button: Find out more.....
       url: /contact-us/
@@ -15,7 +15,7 @@ sections:
         - title: IT CENTRE
           description: Make IT Away of Life!
           url: /about-it-centre/
-      variant: image
+      variant: center
       size: sm
   - infobar:
       title: CCK Goes Green
