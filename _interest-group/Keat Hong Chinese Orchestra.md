@@ -19,6 +19,6 @@ Keat Hong Chinese Orchestra aspires to be an engaging platform which encourages 
 #### Our Mission
 
 To actively promote a Uniquely Singapore music scene, where music from different races and cultures are communicated to the public through Chinese Orchestral performances, both locally and overseas.
+![](/images/KHCO/KHCO_2.jpg)
 
-
-
+![](/images/KHCO/KHCO_3.jpg)
