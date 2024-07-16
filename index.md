@@ -10,10 +10,6 @@ sections:
       title: Chua Chu Kang Our Home
       background: /images/CCK_Home_1.jpg
       url: /contact-us/
-      key_highlights:
-        - title: Chua Chu Kang Our Home
-          description: ""
-          url: /about-us/
       variant: image
       size: sm
 ---
