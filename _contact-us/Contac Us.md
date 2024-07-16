@@ -21,12 +21,13 @@ description: ""
 <h5><strong>Contact Us</strong></h5>
 <p>General Enquiries &amp; Feedback</p>
 <p>Chua Chu Kang CC</p>
-<p><a href="tel:+6567691694" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6769 1694</u></a>
+<p><a href="tel:+6567691694" rel="noopener noreferrer nofollow" target="_blank"><u>+65 67691694 </u></a>
 </p>
 <p><a href="https://www.google.com.sg/maps/search/chua+chu+kang+cc+maps/@1.3797444,103.7453333,16.15z?entry=ttu" rel="noopener noreferrer nofollow" target="_blank"><u>pa_chuachukangcc@pa.gov.sg</u></a>
 </p>
 <p>IT Centre</p>
-<p>+65 67647426</p>
+<p><a href="tel:+6567691694" rel="noopener noreferrer nofollow" target="_blank"><u>+65 67647426</u></a>
+</p>
 <p><a href="mailto:enquiry@cckitcentre.org.sg" rel="noopener noreferrer nofollow" target="_blank">enquiry@cckitcentre.org.sg</a>
 </p>
 <p></p>
