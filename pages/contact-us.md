@@ -27,5 +27,10 @@ contacts:
       - email: pa_chuachukangcc@pa.gov.sg
       - other: ""
     title: General Enquiries & Feedback
+  - content:
+      - phone: +65 6764 7426
+      - email: enquiry@cckitcentre.org.sg
+      - other: ""
+    title: IT Centre
 feedback: ""
 ---
