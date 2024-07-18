@@ -2,4 +2,5 @@ collections:
   green:
     output: true
     order:
+      - Gardeners Get Together.md
       - Tree Planting and Therapeutic Garden Walk.md
