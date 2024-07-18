@@ -4,11 +4,11 @@ permalink: /about-us/
 variant: markdown
 description: ""
 ---
-Chua Chu Kang CC has a range of sporting, cultural, educational and recreational activities for mass participation in promotion of racial harmony and social cohesion. The CC also has a group of enthusiastic Senior Citizens who regularly organises mass birthday parties and various festive celebrations.
+Chua Chu Kang CC has a range of sporting, cultural, educational and recreational activities for mass participation in promotion of racial harmony and social cohesion. 
 
 ![CCKCC](/images/Chua_Chu_Kang_CC_photo.png)<br>
 
-The pride of the CC is its IT Centre (ITC) which was established in 1998 to promote greater awareness and wider use of IT in the community. ITC regularly organises IT courses, seminars, workshops and activities at affordable prices.
+The pride of the CC is its IT Centre (ITC) which was established in 1998 to promote greater awareness and wider use of IT in the community. ITC regularly organises IT courses and activities at affordable prices. Most of the IT courses can be offset using Skillsfuture credit.
 
 Call to find out more about the services and facilities available.
 
