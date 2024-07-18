@@ -4,6 +4,9 @@ permalink: /about-it-centre/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT Centre/Slide1.jpg">
+</div>
 <p>Welcome to Chua Chu Kang IT Centre, located in the heart of Chua Chu Kang
 Community Club. We have been providing quality IT education for over 20
 years, serving thousands of satisfied individuals and companies. Our courses
@@ -35,4 +38,5 @@ to learn more about our courses and start your journey towards IT excellence&nbs
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT Centre/Classroom.jpg">
 </div>
+<p></p>
 <p></p>
