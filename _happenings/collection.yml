@@ -2,7 +2,6 @@ collections:
   happenings:
     output: true
     order:
-      - National Day Outing.md
       - Aug 2024/National Day Dinner 2024.md
       - Aug 2024/CCK CC National Day Observance Ceremony & Carnival 2024.md
       - Aug 2024/KHCO Performance.md
