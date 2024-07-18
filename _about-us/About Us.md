@@ -25,7 +25,7 @@ Closed on public holidays
 35 Teck Whye Avenue S688892  
 Phone: 67691694  
 Fax: 67654218  
-Email:&nbsp;[PA\_CHUACHUKANGCC@pa.gov.sg](mailto:PA_CHUACHUKANGCC@pa.gov.sg)<br>
+Email:&nbsp;[pa\_chuachukangcc@pa.gov.sg](mailto:PA_CHUACHUKANGCC@pa.gov.sg)<br>
 IT Centre email: [enquiry@cckitcentre.org.sg](enquiry@cckitcentre.org.sg)
 
 #### Facilities
