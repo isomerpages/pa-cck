@@ -14,3 +14,7 @@ advanced booking</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT Centre/MOS_Master_Path.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IT Centre/MOS10_Sp_ATC_rgb.jpg">
+</div>
+<p></p>
