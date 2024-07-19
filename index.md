@@ -12,4 +12,7 @@ sections:
       url: /contact-us/
       variant: image
       size: sm
+  - infobar:
+      title: Skillsfutre@PA
+      id: infobar
 ---
