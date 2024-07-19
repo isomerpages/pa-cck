@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Pulau Ketam.md
       - Aug 2024/Singapore Garden Festival.md
       - Aug 2024/National Day Outing.md
       - Aug 2024/National Day Dinner 2024.md
