@@ -2,5 +2,6 @@ collections:
   green:
     output: true
     order:
+      - Community Garden @ Blk 160A.md
       - Gardeners Get Together.md
       - Tree Planting and Therapeutic Garden Walk.md
