@@ -2,8 +2,8 @@ collections:
   it-centre:
     output: true
     order:
-      - Skillsfuture@PA.md
       - About IT Centre.md
+      - Skillsfuture@PA.md
       - Microsoft Office Basic & Intermediate.md
       - Microsoft Office Advanced.md
       - MOS Exam.md
