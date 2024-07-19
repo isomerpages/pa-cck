@@ -13,7 +13,7 @@ sections:
       variant: image
       size: sm
   - infobar:
-      title: Skillsfutre@PA
+      title: Skillsfuture@PA
       id: infobar
       url: /skillsfuture-pa/
       button: find out more
