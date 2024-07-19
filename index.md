@@ -15,4 +15,6 @@ sections:
   - infobar:
       title: Skillsfutre@PA
       id: infobar
+      url: /skillsfuture-pa/
+      button: find out more
 ---
