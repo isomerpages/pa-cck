@@ -12,3 +12,8 @@ description: ""
 the course list.</p>
 <p>Register for the course online at <a href="https://www.onepa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.onepa.gov.sg</a> or register
 at your nearest community clubs or centres.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+<p></p>
