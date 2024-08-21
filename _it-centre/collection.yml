@@ -2,6 +2,7 @@ collections:
   it-centre:
     output: true
     order:
+      - IT Courses/School Holidays Programme.md
       - IT Courses/Basic Computer Course.md
       - IT Courses/Webdesign.md
       - IT Courses/Photo and Video Editing.md
