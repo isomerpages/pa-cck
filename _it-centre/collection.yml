@@ -2,6 +2,7 @@ collections:
   it-centre:
     output: true
     order:
+      - IT Courses/2D,3D Animation and Virtual Tour.md
       - IT Courses/Programming.md
       - IT Courses/PC Hardware and Software.md
       - IT Courses/MOS Exam.md
