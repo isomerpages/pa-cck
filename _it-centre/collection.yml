@@ -2,6 +2,7 @@ collections:
   it-centre:
     output: true
     order:
+      - IT Courses/Basic Computer Course.md
       - IT Courses/Webdesign.md
       - IT Courses/Photo and Video Editing.md
       - IT Courses/2D,3D Animation and Virtual Tour.md
