@@ -2,6 +2,7 @@ collections:
   it-centre:
     output: true
     order:
+      - IT Courses/PC Hardware and Software.md
       - IT Courses/MOS Exam.md
       - IT Courses/Microsoft Office Advanced.md
       - IT Courses/Microsoft Office Basic & Intermediate.md
