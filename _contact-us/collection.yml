@@ -2,4 +2,4 @@ collections:
   contact-us:
     output: true
     order:
-      - Contac Us.md
+      - Contact Us.md
