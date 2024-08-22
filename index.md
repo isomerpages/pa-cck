@@ -19,7 +19,7 @@ sections:
         discover new ways to grow as individuals and as a community. Let's all
         work to Love Where We Live!
       button: Happenings
-      url: /pulau-ketam/
+      url: /whats-happening/
   - infobar:
       title: Skillsfuture@PA
       id: infobar
