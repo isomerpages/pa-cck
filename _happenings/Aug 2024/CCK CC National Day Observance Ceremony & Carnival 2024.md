@@ -28,4 +28,3 @@ their unwavering support. The event would not have been possible without
 each of these members of our neighbourhood.</p>
 <p>We hope to see you at next year's National Day Observance Ceremony and
 Carnival, when we celebrate Singapore's 60th birthday. Majulah Singapura!</p>
-<p></p>
