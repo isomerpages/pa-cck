@@ -7,9 +7,6 @@ third_nav_title: Aug 2024
 ---
 <p>On 4 August 2024, over a thousand of our residents joined us at Chua Chu
 Kang Community Centre for our National Day Observance Ceremony and Carnival.</p>
-<p>Volunteers arrived bright and early at 7 a.m. to start setting up for
-the event. By 8:30 a.m., there was a buzz in the room as attendees started
-streaming in.</p>
 <p>The morning was one of song, dance and revelry as our Chua Chu Kang community
 came together to celebrate Singapore's 59th birthday. Residents particularly
 enjoyed the mass singalong. A live band comprising four Chua Chu Kang youths
