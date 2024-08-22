@@ -4,7 +4,7 @@ title: Chua Chu Kang CC
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please note that our website is under maintenance. We will be back shortly!
+notification: Our website is under construction. Watch this space for exciting updates!
 sections:
   - hero:
       background: /images/CCK_Home_1.jpg
