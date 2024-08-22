@@ -1,7 +1,7 @@
 logo: /images/CCK_home_Picture.jpg
 links:
   - title: About Us
-    url: /about-us/
+    collection: about-us
   - title: Care
     collection: care
   - title: Learn
