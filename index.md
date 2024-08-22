@@ -15,9 +15,9 @@ sections:
       title: Chua Chu Kang - Our Home!
       subtitle: Welcome to
       id: infobar
-      description: On our website, find out about upcoming and past events, and
-        discover new ways to grow as individuals and as a community. Let's all
-        work to Love Where We Live!
+      description: Find out about upcoming and past events, and discover new ways to
+        grow as individuals and as a community. Let's all work to Love Where We
+        Live!
       button: Happenings
       url: /whats-happening/
   - infobar:
