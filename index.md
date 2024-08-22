@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/CCK_Home_1.jpg
       url: /contact-us/
-      variant: center
+      variant: image
       size: sm
   - infobar:
       title: Chua Chu Kang - Our Home!
