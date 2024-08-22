@@ -7,7 +7,7 @@ permalink: /
 notification: Our website is under construction. Watch this space for exciting updates!
 sections:
   - hero:
-      background: /images/CCK_Home_1.jpg
+      background: /images/20240706_102906__2_.jpg
       url: /contact-us/
       variant: image
       size: sm
