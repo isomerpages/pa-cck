@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - About Us.md
+      - Contact Us.md
