@@ -4,14 +4,14 @@ collections:
     order:
       - About IT Centre.md
       - IT Courses/.keep
-      - IT Courses/School Holidays Programme.md
       - IT Courses/Basic Computer Course.md
-      - IT Courses/Webdesign.md
-      - IT Courses/Photo and Video Editing.md
-      - IT Courses/2D,3D Animation and Virtual Tour.md
+      - IT Courses/Microsoft Office Basic & Intermediate.md
+      - IT Courses/Microsoft Office Advanced.md
+      - IT Courses/MOS Exam.md
       - IT Courses/Programming.md
       - IT Courses/PC Hardware and Software.md
-      - IT Courses/MOS Exam.md
-      - IT Courses/Microsoft Office Advanced.md
-      - IT Courses/Microsoft Office Basic & Intermediate.md
+      - IT Courses/Webdesign.md
+      - IT Courses/School Holidays Programme.md
+      - IT Courses/Photo and Video Editing.md
+      - IT Courses/2D,3D Animation and Virtual Tour.md
       - Skillsfuture@PA.md
