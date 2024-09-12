@@ -7,7 +7,6 @@ description: ""
 <p>Chua Chu Kang CC has a range of sporting, cultural, educational and recreational
 activities for mass participation in promotion of racial harmony and social
 cohesion.</p>
-<p>![CCKCC](/images/Chua_Chu_Kang_CC_photo.png)&lt;br&gt;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_CC_photo.png">
 </div>
