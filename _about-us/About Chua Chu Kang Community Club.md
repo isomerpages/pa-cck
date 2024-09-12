@@ -8,6 +8,9 @@ description: ""
 activities for mass participation in promotion of racial harmony and social
 cohesion.</p>
 <p>![CCKCC](/images/Chua_Chu_Kang_CC_photo.png)&lt;br&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Chua_Chu_Kang_CC_photo.png">
+</div>
 <p>The pride of the CC is its IT Centre (ITC) which was established in 1998
 to promote greater awareness and wider use of IT in the community. ITC
 regularly organises IT courses and activities at affordable prices. Most
