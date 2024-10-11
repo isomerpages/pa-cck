@@ -2,10 +2,10 @@ collections:
   happenings:
     output: true
     order:
-      - Oct 2024.md
       - What's Happening at CCK?.md
-      - Sep 2024/Pulau Ketam.md
+      - Oct 2024.md
       - Sep 2024/.keep
+      - Sep 2024/Pulau Ketam.md
       - Aug 2024/.keep
       - Aug 2024/CCK CC National Day Observance Ceremony & Carnival 2024.md
       - Aug 2024/National Day Dinner 2024.md
