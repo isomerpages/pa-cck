@@ -2,9 +2,9 @@ collections:
   happenings:
     output: true
     order:
-      - Oct 2024/Little India.md
-      - Oct 2024/.keep
       - What's Happening at CCK?.md
+      - Oct 2024/.keep
+      - Oct 2024/Little India.md
       - Sep 2024/.keep
       - Sep 2024/Pulau Ketam.md
       - Aug 2024/.keep
