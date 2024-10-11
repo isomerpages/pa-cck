@@ -2,6 +2,7 @@ collections:
   happenings:
     output: true
     order:
+      - Oct 2024.md
       - What's Happening at CCK?.md
       - Sep 2024/.keep
       - Sep 2024/Pulau Ketam.md
