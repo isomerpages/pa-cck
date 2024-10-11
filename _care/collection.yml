@@ -2,7 +2,6 @@ collections:
   care:
     output: true
     order:
-      - Oct 2024/.keep
       - May 2024/.keep
       - May 2024/Milk & Diapers.md
       - June 2024/.keep
@@ -13,6 +12,7 @@ collections:
       - Aug 2024/.keep
       - Aug 2024/Free Monthly Breakfast @ RN.md
       - Aug 2024/Kopi & Teh Club @ CCK.md
+      - Sep 2024/.keep
       - Sep 2024/Free Crochet Workshop.md
       - Sep 2024/Free Baking Together.md
-      - Sep 2024/.keep
+      - Oct 2024/.keep
