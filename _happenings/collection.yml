@@ -2,7 +2,6 @@ collections:
   happenings:
     output: true
     order:
-      - Oct 2024.md
       - Little India/Oct 2024.md
       - Little India/.keep
       - What's Happening at CCK?.md
